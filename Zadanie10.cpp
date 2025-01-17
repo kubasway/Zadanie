@@ -60,3 +60,8 @@ int main() {
 
     return 0;
 }
+<<<<<<< HEAD
+=======
+
+//C
+>>>>>>> feature/extras
